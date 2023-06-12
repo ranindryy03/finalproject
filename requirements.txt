@@ -1,4 +1,4 @@
 streamlit
 matplotlib
-matloblib_venn
+matplotlib_venn
 pandas
